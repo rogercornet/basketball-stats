@@ -1,0 +1,25 @@
+{
+  "teamScore": {
+    "scoreFor": 165,
+    "scoreAgainst": 186
+  },
+  "sumMatches": 3,
+  "sumShotsOfOneAttempted": 50,
+  "sumShotsOfTwoAttempted": 31,
+  "sumShotsOfThreeAttempted": 25,
+  "sumShotsOfOneSuccessful": 28,
+  "sumShotsOfTwoSuccessful": 31,
+  "sumShotsOfThreeSuccessful": 25,
+  "sumShotsOfOneFailed": 22,
+  "sumShotsOfTwoFailed": 0,
+  "sumShotsOfThreeFailed": 0,
+  "totalScore": 165,
+  "totalScoreAvgByMatch": 55.0,
+  "shotsOfOneSuccessfulAvgByMatch": 9.333333333333334,
+  "shotsOfTwoSuccessfulAvgByMatch": 10.333333333333334,
+  "shotsOfThreeSuccessfulAvgByMatch": 8.333333333333334,
+  "club": "BASQUET ATENEU MONTSERRAT",
+  "teamName": "BÀSQUET ATENEU MONTSERRAT B",
+  "teamId": 42114,
+  "categoryName": "C.C. TERCERA CATEGORIA MASC."
+}
