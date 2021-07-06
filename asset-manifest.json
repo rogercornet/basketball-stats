@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5808f48d.chunk.css",
-    "main.js": "/static/js/main.46748215.chunk.js",
-    "main.js.map": "/static/js/main.46748215.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1bb66775.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1bb66775.js.map",
-    "static/js/2.30ef7ad8.chunk.js": "/static/js/2.30ef7ad8.chunk.js",
-    "static/js/2.30ef7ad8.chunk.js.map": "/static/js/2.30ef7ad8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5808f48d.chunk.css.map": "/static/css/main.5808f48d.chunk.css.map",
-    "static/js/2.30ef7ad8.chunk.js.LICENSE.txt": "/static/js/2.30ef7ad8.chunk.js.LICENSE.txt"
+    "main.css": "/basketball-stats/static/css/main.5808f48d.chunk.css",
+    "main.js": "/basketball-stats/static/js/main.46748215.chunk.js",
+    "main.js.map": "/basketball-stats/static/js/main.46748215.chunk.js.map",
+    "runtime-main.js": "/basketball-stats/static/js/runtime-main.7b816794.js",
+    "runtime-main.js.map": "/basketball-stats/static/js/runtime-main.7b816794.js.map",
+    "static/js/2.30ef7ad8.chunk.js": "/basketball-stats/static/js/2.30ef7ad8.chunk.js",
+    "static/js/2.30ef7ad8.chunk.js.map": "/basketball-stats/static/js/2.30ef7ad8.chunk.js.map",
+    "index.html": "/basketball-stats/index.html",
+    "static/css/main.5808f48d.chunk.css.map": "/basketball-stats/static/css/main.5808f48d.chunk.css.map",
+    "static/js/2.30ef7ad8.chunk.js.LICENSE.txt": "/basketball-stats/static/js/2.30ef7ad8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bb66775.js",
+    "static/js/runtime-main.7b816794.js",
     "static/js/2.30ef7ad8.chunk.js",
     "static/css/main.5808f48d.chunk.css",
     "static/js/main.46748215.chunk.js"
